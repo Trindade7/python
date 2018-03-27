@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+  padding: 0;
+  top: 0;
+  background: #555;
+  padding-bottom: 5em;
+}
+
+ul{
+  list-style: none;
+  width: 50em;
+  margin: 0 auto;
+  padding: 0;
+}
+
+li{
+  margin-top: 2em;
+  box-shadow: 0em 0em 1em #333;
+}
+
+li img, video{
+  width:50em;
+}
